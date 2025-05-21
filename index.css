@@ -5,7 +5,7 @@ background-attachment: fixed;
 color: rgb(0, 0, 0);
 }
 
-div.botCadastro { 
+#botCadastro { 
     color: blue;
     text-align: center;
 }
